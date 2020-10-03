@@ -6,7 +6,7 @@
   <link href="https://yanqi17118357.github.io/atom.xml" rel="self"/>
   
   <link href="https://yanqi17118357.github.io/"/>
-  <updated>2020-10-03T14:28:13.360Z</updated>
+  <updated>2020-09-15T00:05:12.000Z</updated>
   <id>https://yanqi17118357.github.io/</id>
   
   <author>
@@ -15,53 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>被雪天困住的大孩子</title>
-    <link href="https://yanqi17118357.github.io/2020/10/03/%E8%A2%AB%E9%9B%AA%E5%A4%A9%E5%9B%B0%E4%BD%8F%E7%9A%84%E5%A4%A7%E5%AD%A9%E5%AD%90/"/>
-    <id>https://yanqi17118357.github.io/2020/10/03/%E8%A2%AB%E9%9B%AA%E5%A4%A9%E5%9B%B0%E4%BD%8F%E7%9A%84%E5%A4%A7%E5%AD%A9%E5%AD%90/</id>
-    <published>2020-10-03T14:28:13.360Z</published>
-    <updated>2020-10-03T14:28:13.360Z</updated>
-    
-    <content type="html"><![CDATA[ <blockquote> <p><a  href ="http://boyinsnow.xyz/">被雪天困住的大孩子 </a>(这孩子没我帅)</p> </blockquote>]]></content>
-    
-    
-      
-      
-    <summary type="html"> &lt;blockquote&gt;
- &lt;p&gt;&lt;a  href =&quot;http://boyinsnow.xyz/&quot;&gt;被雪天困住的大孩子 &lt;/a&gt;(这孩子没我帅)&lt;/p&gt;
- &lt;/blockquote&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="人" scheme="https://yanqi17118357.github.io/tags/%E4%BA%BA/"/>
-    
-    <category term="友链" scheme="https://yanqi17118357.github.io/tags/%E5%8F%8B%E9%93%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://yanqi17118357.github.io/2020/09/30/hello-world/"/>
-    <id>https://yanqi17118357.github.io/2020/09/30/hello-world/</id>
-    <published>2020-09-30T10:44:56.236Z</published>
-    <updated>2020-09-30T10:44:56.236Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>一个英语学习网站</title>
@@ -138,6 +91,33 @@
     
     
     <category term="工具" scheme="https://yanqi17118357.github.io/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>被雪天困住的大孩子</title>
+    <link href="https://yanqi17118357.github.io/2020/05/01/%E8%A2%AB%E9%9B%AA%E5%A4%A9%E5%9B%B0%E4%BD%8F%E7%9A%84%E5%A4%A7%E5%AD%A9%E5%AD%90/"/>
+    <id>https://yanqi17118357.github.io/2020/05/01/%E8%A2%AB%E9%9B%AA%E5%A4%A9%E5%9B%B0%E4%BD%8F%E7%9A%84%E5%A4%A7%E5%AD%A9%E5%AD%90/</id>
+    <published>2020-05-01T10:30:33.000Z</published>
+    <updated>2020-10-03T14:39:08.829Z</updated>
+    
+    <content type="html"><![CDATA[ <blockquote> <p><a  href ="http://boyinsnow.xyz/">被雪天困住的大孩子 </a>(这孩子没我帅)</p> </blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html"> &lt;blockquote&gt;
+ &lt;p&gt;&lt;a  href =&quot;http://boyinsnow.xyz/&quot;&gt;被雪天困住的大孩子 &lt;/a&gt;(这孩子没我帅)&lt;/p&gt;
+ &lt;/blockquote&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="人" scheme="https://yanqi17118357.github.io/tags/%E4%BA%BA/"/>
+    
+    <category term="友链" scheme="https://yanqi17118357.github.io/tags/%E5%8F%8B%E9%93%BE/"/>
     
   </entry>
   
